@@ -1,0 +1,8 @@
+{
+    "SQLSERVER": {
+      "Usuario": "sa",
+      "Password":"------",
+      "Servidor":"------",
+      "Database":"AdventureWorks2017"
+    }
+  }
