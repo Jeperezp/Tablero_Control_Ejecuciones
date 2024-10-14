@@ -51,7 +51,7 @@ El proyecto está compuesto por los siguientes archivos y módulos:
 
 ## Requisitos
 
-- Python 3.x
+- Python 3.12.2
 - Librerías de Python:
   - `tkinter`
   - `tkcalendar`
